@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimTori)](https://github.com/SimTori/github-readme-stats)
+
 
 <!--
 **SimTori/SimTori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
